@@ -26,6 +26,10 @@ body{
     /* justify-content: center; */
 }
 
+section{
+    margin-bottom: 50px;
+}
+
 .container{
     width: 270px;
     min-height: 200px;
